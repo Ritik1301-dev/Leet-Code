@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -44,5 +45,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
