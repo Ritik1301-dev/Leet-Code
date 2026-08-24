@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0035-search-insert-position) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0832-flipping-an-image) |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
