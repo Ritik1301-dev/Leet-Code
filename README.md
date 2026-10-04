@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -201,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
