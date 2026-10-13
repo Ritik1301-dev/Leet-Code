@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0169-majority-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2418-sort-the-people) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
