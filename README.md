@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2418-sort-the-people) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -257,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
