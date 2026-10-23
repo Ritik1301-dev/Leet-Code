@@ -1,9 +1,20 @@
 class Solution {
     public int mySqrt(int x) {
-        int i; 
-        for( i=1;i<=x/i;i++){
-            if(i*i == x) return i;
+        int left = 0;
+        int right = x;
+        int ans = 0;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (mid == 0 || mid <= x / mid) {
+                ans = mid;
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
         }
-        return i-1;
+
+        return ans;
     }
 }
