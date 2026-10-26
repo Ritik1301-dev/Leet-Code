@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/1572-matrix-diagonal-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0301-remove-invalid-parentheses) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
