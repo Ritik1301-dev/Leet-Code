@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0724-find-pivot-index) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Ritik1301-dev/https-github.com-Ritik1301-dev-Leet-code/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
