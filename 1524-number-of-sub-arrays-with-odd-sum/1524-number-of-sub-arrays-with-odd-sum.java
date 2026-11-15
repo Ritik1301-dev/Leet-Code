@@ -1,0 +1,28 @@
+
+class Solution {
+    public int numOfSubarrays(int[] arr) {
+
+        int mod = 1_000_000_007;
+
+        int even = 1;
+        int odd = 0;
+        int prefix = 0;
+
+        int ans = 0;
+
+        for (int num : arr) {
+
+            prefix += num;
+
+            if (prefix % 2 == 0) {
+                ans = (ans + odd) % mod;
+                even++;
+            } else {
+                ans = (ans + even) % mod;
+                odd++;
+            }
+        }
+
+        return ans;
+    }
+}
